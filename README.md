@@ -9,5 +9,6 @@ This program requires you to feed the eurorack voltage to de A0 ADC-pin of the a
 Note that you need to adjust -5...5 into 0...5 using e.g. an opamp.
 
 
-Written by Folkert van Heusden <mail@vanheusden.com>
+Written by Folkert van Heusden <folkert@vanheusden.com>
+
 Released under AGPL v3.0.
